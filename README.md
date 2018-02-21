@@ -1,6 +1,5 @@
 # TEAM ID
-This is a team repo for members of the team {Team ID}
+This is a team repo for members of the team A4
 
 # Team Members
-* [Jane Doe](members/janeDoe.md)
-* [John Doe](members/johnDoe.md)
+* [Tan Kai Yong](members/KaiYong.md)
